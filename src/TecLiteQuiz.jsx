@@ -285,7 +285,7 @@ function Eyebrow({ children }) {
 function H1({ children }) {
   return (
     <h1
-      className="text-[56px] md:text-[88px] font-bold leading-[1.0] tracking-tight mb-6"
+      className="text-[24px] md:text-[24px] font-bold leading-[1.0] tracking-tight mb-6"
       style={{ color: "var(--tec-text)" }}
     >
       {children}
