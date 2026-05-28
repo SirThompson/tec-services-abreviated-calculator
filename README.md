@@ -1,4 +1,4 @@
-# TEC Lite Quiz
+# TEC Lite Lead Generator
 
 React/Vite project structured for GitHub + Vercel deployment.
 
@@ -24,7 +24,7 @@ dist/
 ## Main files
 
 ```txt
-src/TecLiteQuiz.jsx  # main quiz component
+src/TecLiteQuiz.jsx  # main form component
 src/main.jsx         # React entry file + iframe height postMessage
 src/index.css        # Tailwind/styles
 index.html           # Vite HTML entry
